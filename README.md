@@ -114,13 +114,11 @@ To run the program use command, bin/dev
 bin/dev
 ```
 
-```
 <p align="right"><a href="#readme-top">👆</a></p>
 
 <!-- AUTHORS -->
 
 ## 👥 Author <a name="authors"></a>
-
 
 👤 **Osman Wako**
 
