@@ -171,4 +171,3 @@ I'd like to thank Microverse for helping us in the journey to become a Fullstack
 This project is [MIT](./MIT) licensed.
 
 <p align="right"><a href="#readme-top">👆</a></p>
-```

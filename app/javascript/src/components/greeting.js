@@ -9,7 +9,6 @@ function Greeting() {
   useEffect(() => {
     dispatch(fetchMessage());
   }, [dispatch]);
-  console.log(status, status);
   return (
     <div>
       <h1>Random Greeting Message.</h1>
