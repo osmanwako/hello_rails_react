@@ -2,15 +2,15 @@
 
 # Hello rails react
 
-In this project, I'm going to build a hello-rails-react app using rails as backend and react as frontend.
+In this project, I'm going to build a hello_rails_react app using rails as backend and react as frontend.
 
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
-- [Hello Rails React App](#hello-rails-react)
+- [Hello Rails React App](#hello_rails_react)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Blog app ](#-blog-app-)
+- [📖 Hello app ](#-hello-app-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -23,7 +23,7 @@ In this project, I'm going to build a hello-rails-react app using rails as backe
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [📝 License ](#-license-)
+  - [📝 License ](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -97,7 +97,7 @@ gem install rails
 Clone the repo into your local machine:
 
 ```bash
-git clone https://github.com/osmanwako/hello-rails-react.git
+git clone https://github.com/osmanwako/hello_rails_react.git
 ```
 
 Create the database by using a command
@@ -114,13 +114,11 @@ To run the program use command, bin/dev
 bin/dev
 ```
 
-```
 <p align="right"><a href="#readme-top">👆</a></p>
 
 <!-- AUTHORS -->
 
 ## 👥 Author <a name="authors"></a>
-
 
 👤 **Osman Wako**
 
@@ -146,7 +144,7 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
-https://github.com/osmanwako/hello-rails-react/issues
+https://github.com/osmanwako/hello_rails_react/issues
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
@@ -170,7 +168,6 @@ I'd like to thank Microverse for helping us in the journey to become a Fullstack
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right"><a href="#readme-top">👆</a></p>
-```
