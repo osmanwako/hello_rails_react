@@ -168,6 +168,6 @@ I'd like to thank Microverse for helping us in the journey to become a Fullstack
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right"><a href="#readme-top">👆</a></p>
